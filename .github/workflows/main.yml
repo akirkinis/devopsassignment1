@@ -4,6 +4,7 @@ env:
   IMAGE_NAME: student_service
   REPO_NAME: akirkinis
 
+
 jobs:
   build:
     runs-on: ubuntu-latest
